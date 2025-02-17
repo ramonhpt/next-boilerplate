@@ -1,0 +1,36 @@
+{
+  "wellcome": "Bienvenido",
+  "greeting": "Un gran backoffice",
+  "toggle_theme": "Cambiar tema",
+  "theme": {
+    "light": "Claro",
+    "dark": "Oscuro",
+    "system": "Sistema"
+  },
+  "sidebar": {
+    "admin": {
+      "dashboard": "Tablero",
+      "title": "Administración",
+      "security": "Seguridad",
+      "users": "Usuarios",
+      "roles": "Roles",
+      "groups": "Grupos",
+      "clients": "Clientes",
+      "operations": "Operaciones",
+      "summary": "Resumen"
+    },
+    "game_operator": {
+      "home": "Inicio",
+      "title": "Operador de Juego",
+      "players": "Jugadores",
+      "general": "General",
+      "geographic": "Geográfico",
+      "library": "Librería",
+      "my_library": "Mi Librería"
+    }
+  },
+  "logout": "Cerrar sesión",
+  "notifications": "Notificaciones",
+  "billing": "Facturación",
+  "account": "Cuenta"
+}

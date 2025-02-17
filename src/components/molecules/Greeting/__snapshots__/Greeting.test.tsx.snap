@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Greeting Component should match snapshot 1`] = `
+<div>
+  <div
+    class="mt-32 flex h-32 w-32 flex-col items-center justify-center rounded-xl bg-gradient-to-r from-purple-400 via-pink-500 to-red-500 p-8"
+    style="opacity: 0; transform: scale(0.9);"
+    tabindex="0"
+  >
+    <h1>
+      HIRO
+    </h1>
+    <h6>
+      backoffice
+    </h6>
+  </div>
+</div>
+`;
