@@ -1,0 +1,10 @@
+{
+  "wellcome": "Wellcome",
+  "greeting": "A wonderfull backoffice",
+  "toggle_theme": "Toggle theme",
+  "themes": {
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System"
+  }
+}
